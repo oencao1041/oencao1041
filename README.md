@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oencao1041)](https://github.com/oencao1041/github-readme-stats)
 <a href="https://blog.naver.com/119dpdltm"><img src="https://img.shields.io/badge/#FF8000?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/119dpdltm"/></a>&nbsp
+http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
